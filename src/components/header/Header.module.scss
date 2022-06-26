@@ -1,0 +1,27 @@
+.header{
+	background-color:#da5a38;
+	max-width: 100%;
+	height: 80px;
+	display: flex;
+	justify-content:space-between;
+	align-items: center;
+	padding: 13px;
+	&__logo{
+		display: flex;
+		justify-content:flex-start;
+		align-items: center;
+	}
+	&__info{
+		display: flex;
+		justify-content:flex-start;
+		align-items: center;
+		&_login{
+			padding-right: 20px;
+		}
+	}
+	& img{
+		width: 70px;
+		height: 70px;
+		border-radius:50%;
+	}
+}

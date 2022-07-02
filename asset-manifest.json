@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DeviceChecker/static/css/main.c32bbe9c.css",
+    "main.js": "/DeviceChecker/static/js/main.3ab62a19.js",
+    "static/js/787.6784a80f.chunk.js": "/DeviceChecker/static/js/787.6784a80f.chunk.js",
+    "static/media/not-image.png": "/DeviceChecker/static/media/not-image.e17fd2f9927700cbb28e.png",
+    "static/media/logo.png": "/DeviceChecker/static/media/logo.040b629eaaeb3b2d964c.png",
+    "index.html": "/DeviceChecker/index.html",
+    "main.c32bbe9c.css.map": "/DeviceChecker/static/css/main.c32bbe9c.css.map",
+    "main.3ab62a19.js.map": "/DeviceChecker/static/js/main.3ab62a19.js.map",
+    "787.6784a80f.chunk.js.map": "/DeviceChecker/static/js/787.6784a80f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c32bbe9c.css",
+    "static/js/main.3ab62a19.js"
+  ]
+}

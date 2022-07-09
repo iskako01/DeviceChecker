@@ -1,3 +1,14 @@
+# Test data for authorization:
+
+# Admin:  
+email: gandalf.the.grey@etnetera.cz  
+password: wh1tew1zard                
+
+# User: 
+
+email: frodo.baggins@etnetera.cz 
+password: theoner1ng                
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -30,12 +41,9 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-Test data for authorization:
 
-email                                  password                   type
-                                
-gandalf.the.grey@etnetera.cz           wh1tew1zard                admin
-frodo.baggins@etnetera.cz              theoner1ng                 user
+
+
 
 ### `npm run eject`
 

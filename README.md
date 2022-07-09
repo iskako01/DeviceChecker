@@ -29,6 +29,14 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+
+Test data for authorization:
+
+email                                  password                   type
+                                
+gandalf.the.grey@etnetera.cz           wh1tew1zard                admin
+frodo.baggins@etnetera.cz              theoner1ng                 user
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
